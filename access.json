@@ -9,6 +9,14 @@
       "createdAt": "2026-08-15T13:02:04.796Z",
       "activatedAt": "2026-08-15T13:08:37.779Z",
       "lastSeen": "2026-08-15T13:08:37.779Z"
+    },
+    {
+      "name": "吴红仁",
+      "code": "QFJ2ZX",
+      "active": false,
+      "createdAt": "2026-08-15T13:33:40.914Z",
+      "activatedAt": null,
+      "lastSeen": null
     }
   ],
   "_ver": "access-v1"
