@@ -1,5 +1,5 @@
 {
-  "adminPass": "162151d4",
+  "adminPass": "f30efc7b",
   "maxUsers": 10,
   "members": [
     {
@@ -16,7 +16,7 @@
       "active": true,
       "createdAt": "2026-08-15T14:32:22.690Z",
       "activatedAt": "2026-08-15T14:32:42.922Z",
-      "lastSeen": "2026-08-15T14:52:21.536Z"
+      "lastSeen": "2026-08-15T14:32:42.922Z"
     },
     {
       "name": "鲁兵",
