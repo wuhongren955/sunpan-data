@@ -17,6 +17,14 @@
       "createdAt": "2026-08-15T13:58:17.087Z",
       "activatedAt": "2026-08-15T13:58:30.591Z",
       "lastSeen": "2026-08-15T13:58:30.591Z"
+    },
+    {
+      "name": "鲁兵",
+      "code": "3LK3AY",
+      "active": false,
+      "createdAt": "2026-08-15T14:10:14.376Z",
+      "activatedAt": null,
+      "lastSeen": null
     }
   ],
   "_ver": "access-v1"
