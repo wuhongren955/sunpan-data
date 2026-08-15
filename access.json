@@ -17,6 +17,14 @@
       "createdAt": "2026-08-15T14:32:22.690Z",
       "activatedAt": "2026-08-15T14:32:42.922Z",
       "lastSeen": "2026-08-15T14:32:42.922Z"
+    },
+    {
+      "name": "鲁兵",
+      "code": "JNPMGA",
+      "active": false,
+      "createdAt": "2026-08-15T14:50:26.933Z",
+      "activatedAt": null,
+      "lastSeen": null
     }
   ],
   "_ver": "access-v1"
