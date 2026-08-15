@@ -132,25 +132,6 @@
       "note": "次新盘，没入住过全新装修",
       "_demo": false,
       "ts": 1786796084054
-    },
-    {
-      "id": "L1786797209189264",
-      "community": "又",
-      "address": "33",
-      "area": -0.01,
-      "rooms": "33",
-      "price": 4,
-      "unit_price": 4,
-      "direction": "",
-      "source": "",
-      "ref_price": null,
-      "has_key": false,
-      "is_core": false,
-      "ownership": "",
-      "urgent": false,
-      "note": "",
-      "_demo": false,
-      "ts": 1786797209189
     }
   ],
   "ref": {
@@ -201,6 +182,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-15T12:33:41.084Z",
-  "_count": 8
+  "_updated": "2026-08-15T12:35:04.060Z",
+  "_count": 7
 }
