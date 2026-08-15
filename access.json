@@ -1,6 +1,15 @@
 {
   "adminPass": "f30efc7b",
   "maxUsers": 10,
-  "members": [],
+  "members": [
+    {
+      "name": "鲁兵",
+      "code": "2NCUVA",
+      "active": false,
+      "createdAt": "2026-08-15T13:02:04.796Z",
+      "activatedAt": null,
+      "lastSeen": null
+    }
+  ],
   "_ver": "access-v1"
 }
