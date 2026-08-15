@@ -5,10 +5,18 @@
     {
       "name": "鲁兵",
       "code": "2NCUVA",
-      "active": true,
+      "active": false,
       "createdAt": "2026-08-15T13:02:04.796Z",
-      "activatedAt": "2026-08-15T13:03:05.378Z",
-      "lastSeen": "2026-08-15T13:03:05.378Z"
+      "activatedAt": null,
+      "lastSeen": null
+    },
+    {
+      "name": "吴红仁",
+      "code": "77QA8Z",
+      "active": false,
+      "createdAt": "2026-08-15T13:03:18.885Z",
+      "activatedAt": null,
+      "lastSeen": null
     }
   ],
   "_ver": "access-v1"
