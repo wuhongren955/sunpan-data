@@ -37,6 +37,25 @@
       "note": "东南朝向高楼层采光视野好",
       "_demo": false,
       "ts": 1786807071135
+    },
+    {
+      "id": "L1786807220884296",
+      "community": "安宏基天曜广场",
+      "address": "B-3B",
+      "area": 185,
+      "rooms": "5+2+3",
+      "price": 1250,
+      "unit_price": 6.7568,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "稀缺大户型，南北通透，视野无遮挡",
+      "_demo": false,
+      "ts": 1786807220884
     }
   ],
   "ref": {
@@ -87,6 +106,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-15T15:18:05.333Z",
-  "_count": 2
+  "_updated": "2026-08-15T15:20:23.012Z",
+  "_count": 3
 }
