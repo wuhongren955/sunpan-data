@@ -132,6 +132,25 @@
       "note": "次新盘，没入住过全新装修",
       "_demo": false,
       "ts": 1786796084054
+    },
+    {
+      "id": "L1786803115742218",
+      "community": "水一",
+      "address": "1",
+      "area": null,
+      "rooms": "",
+      "price": null,
+      "unit_price": 1,
+      "direction": "",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": false,
+      "ownership": "",
+      "urgent": false,
+      "note": "换房卖",
+      "_demo": false,
+      "ts": 1786803115742
     }
   ],
   "ref": {
@@ -182,6 +201,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-15T14:12:30.901Z",
-  "_count": 7
+  "_updated": "2026-08-15T14:12:37.487Z",
+  "_count": 8
 }
