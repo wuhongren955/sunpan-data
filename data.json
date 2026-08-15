@@ -37,6 +37,44 @@
       "note": "",
       "_demo": false,
       "ts": 1786795239962
+    },
+    {
+      "id": "L1786795404182116",
+      "community": "中航天逸",
+      "address": "A3-B-3602",
+      "area": 118,
+      "rooms": "3室2厅2卫",
+      "price": 650,
+      "unit_price": 5.5085,
+      "direction": "北",
+      "source": "先好房·德佑",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "户型方正",
+      "_demo": false,
+      "ts": 1786795488071
+    },
+    {
+      "id": "L1786795468119133",
+      "community": "中航天逸",
+      "address": "A1-3207",
+      "area": 89,
+      "rooms": "3室2厅2卫",
+      "price": 620,
+      "unit_price": 6.9663,
+      "direction": "东南",
+      "source": "先好房·德佑",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1786795468119
     }
   ],
   "ref": {
@@ -87,6 +125,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-15T12:00:46.249Z",
-  "_count": 2
+  "_updated": "2026-08-15T12:04:52.031Z",
+  "_count": 4
 }
