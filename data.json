@@ -18,6 +18,25 @@
       "note": "",
       "_demo": false,
       "ts": 1755283743000
+    },
+    {
+      "id": "L1786795239962912",
+      "community": "龙光玖悦台",
+      "address": "7-2-1702",
+      "area": 111,
+      "rooms": "4室2厅2",
+      "price": 800,
+      "unit_price": 7.2072,
+      "direction": "北",
+      "source": "先好房·德佑",
+      "ref_price": 7.2,
+      "has_key": true,
+      "is_core": false,
+      "ownership": "",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1786795239962
     }
   ],
   "ref": {
@@ -68,6 +87,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-15T11:57:14.644Z",
-  "_count": 1
+  "_updated": "2026-08-15T12:00:46.249Z",
+  "_count": 2
 }
