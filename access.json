@@ -13,10 +13,10 @@
     {
       "name": "吴红仁",
       "code": "X2LYP7",
-      "active": false,
+      "active": true,
       "createdAt": "2026-08-15T13:58:17.087Z",
-      "activatedAt": null,
-      "lastSeen": null
+      "activatedAt": "2026-08-15T13:58:30.591Z",
+      "lastSeen": "2026-08-15T13:58:30.591Z"
     }
   ],
   "_ver": "access-v1"
