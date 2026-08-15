@@ -6,18 +6,18 @@
       "address": "2A-2-8B",
       "area": 120,
       "rooms": "4室2厅2",
-      "price": 720,
-      "unit_price": 6,
+      "price": 700,
+      "unit_price": 5.8333,
       "direction": "北",
       "source": "先好房·馨佸",
       "ref_price": 6.3,
       "has_key": false,
-      "is_core": false,
+      "is_core": true,
       "ownership": "满二",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1755283743000
+      "ts": 1786798495345
     },
     {
       "id": "L1786795239962912",
@@ -182,6 +182,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-15T12:35:04.060Z",
+  "_updated": "2026-08-15T12:55:14.234Z",
   "_count": 7
 }
