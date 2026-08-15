@@ -1,22 +1,14 @@
 {
-  "adminPass": "f30efc7b",
+  "adminPass": "162151d4",
   "maxUsers": 10,
   "members": [
     {
-      "name": "鲁兵",
-      "code": "2NCUVA",
+      "name": "测试",
+      "code": "TEST01",
       "active": true,
-      "createdAt": "2026-08-15T13:02:04.796Z",
-      "activatedAt": "2026-08-15T13:08:37.779Z",
-      "lastSeen": "2026-08-15T13:08:37.779Z"
-    },
-    {
-      "name": "吴红仁",
-      "code": "QFJ2ZX",
-      "active": true,
-      "createdAt": "2026-08-15T13:33:40.914Z",
-      "activatedAt": "2026-08-15T13:33:55.451Z",
-      "lastSeen": "2026-08-15T13:35:02.292Z"
+      "createdAt": "2026-08-15T13:44:36.347Z",
+      "activatedAt": "2026-08-15T13:44:36.354Z",
+      "lastSeen": "2026-08-15T13:44:36.354Z"
     }
   ],
   "_ver": "access-v1"
