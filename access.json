@@ -9,6 +9,14 @@
       "createdAt": "2026-08-15T13:44:36.347Z",
       "activatedAt": "2026-08-15T13:44:36.354Z",
       "lastSeen": "2026-08-15T13:44:36.354Z"
+    },
+    {
+      "name": "吴红仁",
+      "code": "X2LYP7",
+      "active": false,
+      "createdAt": "2026-08-15T13:58:17.087Z",
+      "activatedAt": null,
+      "lastSeen": null
     }
   ],
   "_ver": "access-v1"
