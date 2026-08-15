@@ -3,14 +3,6 @@
   "maxUsers": 10,
   "members": [
     {
-      "name": "鲁兵",
-      "code": "3LK3AY",
-      "active": false,
-      "createdAt": "2026-08-15T14:10:14.376Z",
-      "activatedAt": null,
-      "lastSeen": null
-    },
-    {
       "name": "陈林丽",
       "code": "QR789P",
       "active": false,
