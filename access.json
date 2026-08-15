@@ -21,10 +21,10 @@
     {
       "name": "吴红仁",
       "code": "GNE7AC",
-      "active": false,
+      "active": true,
       "createdAt": "2026-08-15T14:32:22.690Z",
-      "activatedAt": null,
-      "lastSeen": null
+      "activatedAt": "2026-08-15T14:32:42.922Z",
+      "lastSeen": "2026-08-15T14:32:42.922Z"
     }
   ],
   "_ver": "access-v1"
