@@ -18,6 +18,25 @@
       "note": "",
       "_demo": false,
       "ts": 1755283743000
+    },
+    {
+      "id": "L1786806995382883",
+      "community": "中航天逸",
+      "address": "A1-3207",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 620,
+      "unit_price": 6.9663,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": false,
+      "note": "东南朝向高楼层采光视野好",
+      "_demo": false,
+      "ts": 1786806995382
     }
   ],
   "ref": {
@@ -67,6 +86,7 @@
     "中航天逸": 6.705,
     "卓越皇后道": 6.25
   },
-  "_ver": "cloud-fixed-utf8",
-  "_updated": "2026-08-15T14:43:18.922Z"
+  "_ver": "cloud-live",
+  "_updated": "2026-08-15T15:16:36.961Z",
+  "_count": 2
 }
