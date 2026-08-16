@@ -21,10 +21,10 @@
     {
       "name": "鲁兵",
       "code": "JNPMGA",
-      "active": false,
+      "active": true,
       "createdAt": "2026-08-15T14:50:26.933Z",
-      "activatedAt": null,
-      "lastSeen": null
+      "activatedAt": "2026-08-16T02:56:15.786Z",
+      "lastSeen": "2026-08-16T02:56:15.786Z"
     },
     {
       "name": "李丽萍",
