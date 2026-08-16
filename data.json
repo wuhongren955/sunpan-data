@@ -144,6 +144,27 @@
       "note": "房子装修保养好,楼层好，位置安静,业主住在安宏基天曜府",
       "_demo": false,
       "ts": 1786850585722
+    },
+    {
+      "id": "L1786851002246453",
+      "community": "龙光玖悦台",
+      "address": "5-803",
+      "code": "105122945848",
+      "school": "未占用",
+      "area": 96,
+      "rooms": "3-2-2",
+      "price": 650,
+      "unit_price": 6.7708,
+      "direction": "东北",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满五唯一",
+      "urgent": true,
+      "note": "中间位置安静，价格便宜",
+      "_demo": false,
+      "ts": 1786851002246
     }
   ],
   "ref": {
@@ -194,6 +215,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-16T03:23:05.725Z",
-  "_count": 7
+  "_updated": "2026-08-16T03:30:02.249Z",
+  "_count": 8
 }
