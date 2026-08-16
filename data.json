@@ -32,13 +32,13 @@
       "direction": "南北通透",
       "source": "",
       "ref_price": null,
-      "has_key": false,
-      "is_core": false,
+      "has_key": true,
+      "is_core": true,
       "ownership": "满五唯一",
-      "urgent": false,
+      "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1786847368616
+      "ts": 1786848058819
     }
   ],
   "ref": {
@@ -89,6 +89,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-16T02:29:28.619Z",
+  "_updated": "2026-08-16T02:40:58.821Z",
   "_count": 2
 }
