@@ -207,6 +207,27 @@
       "note": "看泳池位置还可以，楼层好，缺点就是朝北。",
       "_demo": false,
       "ts": 1786851526933
+    },
+    {
+      "id": "L1786851947953745",
+      "community": "中海闻华里",
+      "address": "1-203",
+      "code": "105123698906",
+      "school": "未占用",
+      "area": null,
+      "rooms": "3-2-2",
+      "price": 600,
+      "unit_price": null,
+      "direction": "西南",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": true,
+      "ownership": "满五唯一",
+      "urgent": true,
+      "note": "房子装修还可以，学位可以迁走 业主包增值税",
+      "_demo": false,
+      "ts": 1786851947953
     }
   ],
   "ref": {
@@ -257,6 +278,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-16T03:38:46.938Z",
-  "_count": 10
+  "_updated": "2026-08-16T03:45:47.957Z",
+  "_count": 11
 }
