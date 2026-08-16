@@ -186,6 +186,27 @@
       "note": "南北通透，看泳池花园，缺点就是楼层低",
       "_demo": false,
       "ts": 1786851158378
+    },
+    {
+      "id": "L1786851526933896",
+      "community": "龙光玖悦台",
+      "address": "7-1-240",
+      "code": "105124724756",
+      "school": "未占用",
+      "area": 111,
+      "rooms": "4-2-2",
+      "price": 770,
+      "unit_price": 6.9369,
+      "direction": "北",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满五唯一",
+      "urgent": true,
+      "note": "看泳池位置还可以，楼层好，缺点就是朝北。",
+      "_demo": false,
+      "ts": 1786851526933
     }
   ],
   "ref": {
@@ -236,6 +257,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-16T03:32:38.381Z",
-  "_count": 9
+  "_updated": "2026-08-16T03:38:46.938Z",
+  "_count": 10
 }
