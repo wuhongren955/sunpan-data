@@ -159,24 +159,8 @@
       "is_core": false,
       "_user": true,
       "_id": "SEED-10"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "community": "中航天逸",
-      "address": "A1-3207",
-      "area": 89,
-      "rooms": null,
-      "price": 620,
-      "unit_price": null,
-      "direction": "南",
-      "source": "手动录入",
-      "ownership": "",
-      "is_core": false,
-      "_user": true,
-      "_id": "HUmsvhtg64agvb"
     }
   ],
-  "_updated": "2026-08-16T07:40:10.201Z",
-  "_count": 11
+  "_updated": "2026-08-16T07:40:14.577Z",
+  "_count": 10
 }
