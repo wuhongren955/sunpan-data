@@ -102,6 +102,27 @@
       "note": "位置安静",
       "_demo": false,
       "ts": 1786850039411
+    },
+    {
+      "id": "L1786850192671234",
+      "community": "华业玫瑰一期",
+      "address": "2-2-1-15B",
+      "code": "105125523713",
+      "school": "未占用",
+      "area": 88.62,
+      "rooms": "3-2-2",
+      "price": 530,
+      "unit_price": 5.9806,
+      "direction": "西南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "户型得房率高，可以改小四房，缺点靠地铁有点噪音",
+      "_demo": false,
+      "ts": 1786850192671
     }
   ],
   "ref": {
@@ -152,6 +173,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-16T03:13:59.414Z",
-  "_count": 5
+  "_updated": "2026-08-16T03:16:32.673Z",
+  "_count": 6
 }
