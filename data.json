@@ -18,6 +18,27 @@
       "note": "",
       "_demo": false,
       "ts": 1755283743000
+    },
+    {
+      "id": "L1786847368616903",
+      "community": "安宏基天曜广场",
+      "address": "B-3B",
+      "code": "11223333",
+      "school": "未占用",
+      "area": 185,
+      "rooms": "5-2-3",
+      "price": 1250,
+      "unit_price": 6.7568,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": false,
+      "ownership": "满五唯一",
+      "urgent": false,
+      "note": "",
+      "_demo": false,
+      "ts": 1786847368616
     }
   ],
   "ref": {
@@ -68,6 +89,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-16T02:07:20.545Z",
-  "_count": 1
+  "_updated": "2026-08-16T02:29:28.619Z",
+  "_count": 2
 }
