@@ -249,6 +249,27 @@
       "note": "户型方正,装修保养好，视野开阔",
       "_demo": false,
       "ts": 1786887955594
+    },
+    {
+      "id": "L1787020473591519",
+      "community": "水榭春天一期",
+      "address": "6-1-28E",
+      "code": "105123837944",
+      "school": "未占用",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 620,
+      "unit_price": 6.9663,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1787020473591
     }
   ],
   "ref": {
@@ -299,6 +320,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-16T13:45:55.596Z",
-  "_count": 12
+  "_updated": "2026-08-18T02:34:33.594Z",
+  "_count": 13
 }
