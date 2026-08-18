@@ -270,6 +270,27 @@
       "note": "",
       "_demo": false,
       "ts": 1787020473591
+    },
+    {
+      "id": "L1787020645243344",
+      "community": "水榭春天二期",
+      "address": "3-7E",
+      "code": "105120372723",
+      "school": "未占用",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 610,
+      "unit_price": 6.8539,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满五唯一",
+      "urgent": true,
+      "note": "看小区花园，安静",
+      "_demo": false,
+      "ts": 1787020645243
     }
   ],
   "ref": {
@@ -320,6 +341,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-18T02:34:33.594Z",
-  "_count": 13
+  "_updated": "2026-08-18T02:37:25.246Z",
+  "_count": 14
 }
