@@ -159,8 +159,24 @@
       "is_core": false,
       "_user": true,
       "_id": "SEED-10"
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "community": "水榭春天二期",
+      "address": "7-1-9E",
+      "area": 89,
+      "rooms": 3,
+      "price": 598,
+      "unit_price": 6.72,
+      "direction": "东南",
+      "source": "手动录入",
+      "ownership": "",
+      "is_core": false,
+      "_user": true,
+      "_id": "HUmsy1p8uwkvlh"
     }
   ],
-  "_updated": "2026-08-16T07:40:14.577Z",
-  "_count": 10
+  "_updated": "2026-08-18T02:30:23.000Z",
+  "_count": 11
 }
