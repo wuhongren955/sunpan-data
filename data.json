@@ -636,22 +636,24 @@
     },
     {
       "id": "BOARD2-001",
-      "community": "水榭春天二期",
+      "community": "水榭春天三期",
       "address": "11-19F",
+      "code": "",
+      "school": "",
       "area": 66,
-      "rooms": null,
+      "rooms": "",
       "price": 430,
-      "unit_price": 6.52,
+      "unit_price": 6.5152,
       "direction": "",
       "source": "",
-      "ref_price": 7.5,
+      "ref_price": 7,
       "has_key": false,
       "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199825200
+      "ts": 1787201416198
     },
     {
       "id": "BOARD2-002",
@@ -892,6 +894,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-20T04:49:34.943Z",
+  "_updated": "2026-08-20T04:50:16.205Z",
   "_count": 43
 }
