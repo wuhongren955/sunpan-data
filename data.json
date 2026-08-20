@@ -248,7 +248,7 @@
     },
     {
       "id": "L1787020473591519",
-      "community": "水榭春天二期",
+      "community": "水榭春天一期",
       "address": "6-1-28E",
       "code": "105123837944",
       "school": "未占用",
@@ -265,7 +265,7 @@
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787202717763
+      "ts": 1787020473591
     },
     {
       "id": "L1787020645243344",
@@ -677,21 +677,23 @@
     {
       "id": "BOARD2-004",
       "community": "水榭春天二期",
-      "address": "6-1-26E",
+      "address": "6-1-28E",
+      "code": "",
+      "school": "未占用",
       "area": 89,
-      "rooms": null,
+      "rooms": "",
       "price": 620,
-      "unit_price": 6.97,
-      "direction": "东",
+      "unit_price": 6.9663,
+      "direction": "东南",
       "source": "",
       "ref_price": 7.5,
       "has_key": true,
-      "is_core": false,
-      "ownership": "满五不唯一",
-      "urgent": false,
+      "is_core": true,
+      "ownership": "",
+      "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787199825203
+      "ts": 1787202942374
     },
     {
       "id": "BOARD2-005",
@@ -894,6 +896,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-20T05:11:57.776Z",
+  "_updated": "2026-08-20T05:15:42.382Z",
   "_count": 43
 }
