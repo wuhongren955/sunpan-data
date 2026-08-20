@@ -289,27 +289,6 @@
       "ts": 1787020645243
     },
     {
-      "id": "L1787032641304877",
-      "community": "水榭春天三期",
-      "address": "12-1-20E",
-      "code": "",
-      "school": "未占用",
-      "area": 118,
-      "rooms": "4-2-4",
-      "price": 800,
-      "unit_price": 6.7797,
-      "direction": "东南",
-      "source": "",
-      "ref_price": null,
-      "has_key": false,
-      "is_core": true,
-      "ownership": "满二",
-      "urgent": true,
-      "note": "业主自己住，现在想实收800万，链家说有摆台过两次",
-      "_demo": false,
-      "ts": 1787032641304
-    },
-    {
       "id": "L1787039039027162",
       "community": "水榭春天二期",
       "address": "11-11AB",
@@ -894,6 +873,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-20T06:30:59.054Z",
-  "_count": 43
+  "_updated": "2026-08-20T06:34:51.729Z",
+  "_count": 42
 }
