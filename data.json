@@ -619,20 +619,22 @@
       "id": "BOARD-020",
       "community": "中央原著南区",
       "address": "2-23CD",
+      "code": "",
+      "school": "",
       "area": 128,
-      "rooms": "4室2厅2卫",
+      "rooms": "3室2厅2卫",
       "price": 800,
       "unit_price": 6.25,
       "direction": "",
       "source": "",
-      "ref_price": 6.865,
+      "ref_price": null,
       "has_key": false,
       "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "800万左右（约）",
       "_demo": false,
-      "ts": 1787199176904
+      "ts": 1787207459049
     },
     {
       "id": "BOARD2-001",
@@ -891,7 +893,7 @@
     "中航天逸": 6.705,
     "卓越皇后道": 6.25
   },
-  "_ver": "cloud-v1",
-  "_updated": "2026-08-20T06:27:18.219Z",
+  "_ver": "cloud-live",
+  "_updated": "2026-08-20T06:30:59.054Z",
   "_count": 43
 }
