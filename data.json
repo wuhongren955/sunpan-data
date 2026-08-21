@@ -22,7 +22,7 @@
     {
       "id": "L1786847368616903",
       "community": "安宏基天曜广场",
-      "address": "B-3B",
+      "address": "B-3A",
       "code": "105123067792",
       "school": "未占用",
       "area": 185,
@@ -38,7 +38,7 @@
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1786848894594
+      "ts": 1787276604587
     },
     {
       "id": "L1786848822232269",
@@ -248,7 +248,7 @@
     },
     {
       "id": "L1787020473591519",
-      "community": "水榭春天一期",
+      "community": "水榭春天二期",
       "address": "6-1-28E",
       "code": "105123837944",
       "school": "未占用",
@@ -265,7 +265,7 @@
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787020473591
+      "ts": 1787278608662
     },
     {
       "id": "L1787020645243344",
@@ -287,27 +287,6 @@
       "note": "看小区花园，安静",
       "_demo": false,
       "ts": 1787020645243
-    },
-    {
-      "id": "L1787032641304877",
-      "community": "水榭春天三期",
-      "address": "12-1-20E",
-      "code": "",
-      "school": "未占用",
-      "area": 118,
-      "rooms": "4-2-4",
-      "price": 800,
-      "unit_price": 6.7797,
-      "direction": "东南",
-      "source": "",
-      "ref_price": null,
-      "has_key": false,
-      "is_core": true,
-      "ownership": "满二",
-      "urgent": true,
-      "note": "业主自己住，现在想实收800万，链家说有摆台过两次",
-      "_demo": false,
-      "ts": 1787032641304
     },
     {
       "id": "L1787039039027162",
@@ -619,20 +598,22 @@
       "id": "BOARD-020",
       "community": "中央原著南区",
       "address": "2-23CD",
+      "code": "",
+      "school": "",
       "area": 128,
-      "rooms": "4室2厅2卫",
+      "rooms": "3室2厅2卫",
       "price": 800,
       "unit_price": 6.25,
       "direction": "",
       "source": "",
-      "ref_price": 6.865,
+      "ref_price": null,
       "has_key": false,
       "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "800万左右（约）",
       "_demo": false,
-      "ts": 1787199176904
+      "ts": 1787207459049
     },
     {
       "id": "BOARD2-001",
@@ -842,6 +823,69 @@
       "note": "",
       "_demo": false,
       "ts": 1787199825211
+    },
+    {
+      "id": "L1787278534436411",
+      "community": "特发和平里",
+      "address": "3A-2302",
+      "code": "",
+      "school": "未占用",
+      "area": 185,
+      "rooms": "5-2-3",
+      "price": 850,
+      "unit_price": 4.5946,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": true,
+      "ownership": "",
+      "urgent": true,
+      "note": "楼王位置，通透户型，自如在租",
+      "_demo": false,
+      "ts": 1787278534436
+    },
+    {
+      "id": "L1787295977030725",
+      "community": "水榭春天五期",
+      "address": "4-A-3C",
+      "code": "",
+      "school": "未占用",
+      "area": 147,
+      "rooms": "5-2-2",
+      "price": 1300,
+      "unit_price": 8.8435,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满五唯一",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1787295977031
+    },
+    {
+      "id": "L1787306275744609",
+      "community": "日出印象",
+      "address": "11-2-302",
+      "code": "105125510631",
+      "school": "未占用",
+      "area": 92.01,
+      "rooms": "3-2-1",
+      "price": 350,
+      "unit_price": 3.8039,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": false,
+      "ownership": "满五唯一",
+      "urgent": false,
+      "note": "",
+      "_demo": false,
+      "ts": 1787306275744
     }
   ],
   "ref": {
@@ -872,7 +916,7 @@
     "龙华金茂府": 8,
     "绿景公馆1866北区": 8.25,
     "绿景公馆1866南区": 6.84,
-    "金地梅陇镇一期": 4.84,
+    "梅陇镇一期": 4.84,
     "日出印象二期": 3.79,
     "日出印象": 4.3,
     "尚竣": 4.94,
@@ -891,7 +935,7 @@
     "中航天逸": 6.705,
     "卓越皇后道": 6.25
   },
-  "_ver": "cloud-v1",
-  "_updated": "2026-08-20T06:27:18.219Z",
-  "_count": 43
+  "_ver": "cloud-live",
+  "_updated": "2026-08-21T09:57:55.747Z",
+  "_count": 45
 }
