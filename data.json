@@ -788,8 +788,10 @@
     },
     {
       "id": "BOARD2-011",
-      "community": "水榭春天六期（A/B待确认）",
+      "community": "水榭春天六期A区",
       "address": "1-5E",
+      "code": "",
+      "school": "未占用",
       "area": 89,
       "rooms": "3室2厅2卫",
       "price": 710,
@@ -799,11 +801,11 @@
       "ref_price": null,
       "has_key": false,
       "is_core": false,
-      "ownership": "满五不唯一",
+      "ownership": "满二",
       "urgent": false,
       "note": "红本在手",
       "_demo": false,
-      "ts": 1787199825210
+      "ts": 1787306661530
     },
     {
       "id": "BOARD2-012",
@@ -957,6 +959,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-21T10:00:38.721Z",
+  "_updated": "2026-08-21T10:04:21.534Z",
   "_count": 46
 }
