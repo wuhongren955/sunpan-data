@@ -411,8 +411,25 @@
       "_user": true,
       "_id": "HUmt2lkjqywf0",
       "ts": 1787295505447
+    },
+    {
+      "year": 2026,
+      "month": 1,
+      "community": "汇龙湾",
+      "address": "3-1-22B",
+      "area": 89,
+      "rooms": null,
+      "price": 835,
+      "unit_price": 9.38,
+      "direction": "",
+      "source": "手动录入",
+      "ownership": "",
+      "is_core": false,
+      "_user": true,
+      "_id": "HUmt2lrcs1fnkc",
+      "ts": 1787295778417
     }
   ],
-  "_updated": "2026-08-21T06:58:25.448Z",
-  "_count": 25
+  "_updated": "2026-08-21T07:02:58.417Z",
+  "_count": 26
 }
