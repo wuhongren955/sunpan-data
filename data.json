@@ -886,6 +886,27 @@
       "note": "",
       "_demo": false,
       "ts": 1787306275744
+    },
+    {
+      "id": "L178730643871732",
+      "community": "金地梅陇镇二期",
+      "address": "10-16B",
+      "code": "105125510792",
+      "school": "",
+      "area": 98.7,
+      "rooms": "3-2-2",
+      "price": 420,
+      "unit_price": 4.2553,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": false,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "业主去年法拍过来的 现在这装修，各付各税",
+      "_demo": false,
+      "ts": 1787306438717
     }
   ],
   "ref": {
@@ -936,6 +957,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-21T09:57:55.747Z",
-  "_count": 45
+  "_updated": "2026-08-21T10:00:38.721Z",
+  "_count": 46
 }
