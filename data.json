@@ -696,7 +696,9 @@
     {
       "id": "BOARD2-007",
       "community": "水榭春天五期",
-      "address": "3-13-24E",
+      "address": "3-B-24E",
+      "code": "",
+      "school": "",
       "area": 89,
       "rooms": "3室2厅2卫",
       "price": 720,
@@ -706,11 +708,11 @@
       "ref_price": 8.8,
       "has_key": false,
       "is_core": false,
-      "ownership": "满五",
+      "ownership": "",
       "urgent": true,
       "note": "急卖，低首付",
       "_demo": false,
-      "ts": 1787199825206
+      "ts": 1787308481961
     },
     {
       "id": "BOARD2-008",
@@ -942,6 +944,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-21T10:33:55.816Z",
+  "_updated": "2026-08-21T10:34:41.973Z",
   "_count": 45
 }
