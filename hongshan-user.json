@@ -428,11 +428,28 @@
       "_user": true,
       "_id": "HUmt2lrcs1fnkc",
       "ts": 1787296679631
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "community": "中央原著北区",
+      "address": "1-20A",
+      "area": 88,
+      "rooms": 3,
+      "price": 620,
+      "unit_price": 7.05,
+      "direction": "南北通透",
+      "source": "手动录入",
+      "ownership": "",
+      "is_core": true,
+      "_user": true,
+      "_id": "HUmt2t2esw4ben",
+      "ts": 1787308051568
     }
   ],
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
   ],
-  "_updated": "2026-08-21T10:26:58.480Z",
-  "_count": 26
+  "_updated": "2026-08-21T10:27:31.568Z",
+  "_count": 27
 }
