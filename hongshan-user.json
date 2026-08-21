@@ -214,16 +214,16 @@
       "community": "水榭春天三期",
       "address": "12-2-20E",
       "area": 115,
-      "rooms": "",
+      "rooms": 4,
       "price": 800,
       "unit_price": 6.96,
-      "direction": "",
+      "direction": "东南",
       "source": "同行",
       "ownership": "",
       "is_core": false,
       "_user": true,
       "_id": "SEED-14",
-      "ts": 1787260000400
+      "ts": 1787301451887
     },
     {
       "year": 2026,
@@ -430,9 +430,9 @@
       "ts": 1787296679631
     }
   ],
-  "_updated": "2026-08-21T08:21:09.707Z",
-  "_count": 26,
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
-  ]
+  ],
+  "_updated": "2026-08-21T08:37:31.887Z",
+  "_count": 26
 }
