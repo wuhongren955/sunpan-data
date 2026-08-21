@@ -823,6 +823,27 @@
       "note": "",
       "_demo": false,
       "ts": 1787199825211
+    },
+    {
+      "id": "L1787278534436411",
+      "community": "特发和平里",
+      "address": "3A-2302",
+      "code": "",
+      "school": "未占用",
+      "area": 185,
+      "rooms": "5-2-3",
+      "price": 850,
+      "unit_price": 4.5946,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": true,
+      "ownership": "",
+      "urgent": true,
+      "note": "楼王位置，通透户型，自如在租",
+      "_demo": false,
+      "ts": 1787278534436
     }
   ],
   "ref": {
@@ -873,6 +894,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-21T01:43:24.594Z",
-  "_count": 42
+  "_updated": "2026-08-21T02:15:34.459Z",
+  "_count": 43
 }
