@@ -706,13 +706,13 @@
       "direction": "",
       "source": "",
       "ref_price": 8.8,
-      "has_key": false,
+      "has_key": true,
       "is_core": false,
       "ownership": "",
       "urgent": true,
       "note": "急卖，低首付",
       "_demo": false,
-      "ts": 1787308481961
+      "ts": 1787308867697
     },
     {
       "id": "BOARD2-008",
@@ -944,6 +944,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-21T10:34:41.973Z",
+  "_updated": "2026-08-21T10:41:07.710Z",
   "_count": 45
 }
