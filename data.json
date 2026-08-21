@@ -654,25 +654,6 @@
       "ts": 1787199825201
     },
     {
-      "id": "BOARD2-004",
-      "community": "水榭春天二期",
-      "address": "6-1-26E",
-      "area": 89,
-      "rooms": "3室2厅2卫",
-      "price": 620,
-      "unit_price": 6.97,
-      "direction": "东",
-      "source": "",
-      "ref_price": 7.5,
-      "has_key": true,
-      "is_core": false,
-      "ownership": "满五不唯一",
-      "urgent": false,
-      "note": "",
-      "_demo": false,
-      "ts": 1787199825203
-    },
-    {
       "id": "BOARD2-005",
       "community": "水榭春天二期",
       "address": "6-2-10F",
@@ -961,6 +942,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-21T10:29:49.491Z",
-  "_count": 46
+  "_updated": "2026-08-21T10:33:55.816Z",
+  "_count": 45
 }
