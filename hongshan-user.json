@@ -394,8 +394,25 @@
       "_user": true,
       "_id": "HUmt2dsl7i2tsm",
       "ts": 1787282399070
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "community": "水榭春天一期",
+      "address": "",
+      "area": 89,
+      "rooms": 3,
+      "price": 555,
+      "unit_price": 6.24,
+      "direction": "东北",
+      "source": "乐",
+      "ownership": "",
+      "is_core": true,
+      "_user": true,
+      "_id": "HUmt2lkjqywf0",
+      "ts": 1787295460859
     }
   ],
-  "_updated": "2026-08-21T03:19:59.071Z",
-  "_count": 24
+  "_updated": "2026-08-21T06:57:40.860Z",
+  "_count": 25
 }
