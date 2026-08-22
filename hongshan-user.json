@@ -496,11 +496,29 @@
       "_user": true,
       "_id": "HUmt489n5acy76",
       "ts": 1787394049390
+    },
+    {
+      "_id": "DEAL-mt4bk6n4-25s4",
+      "_user": true,
+      "year": 2026,
+      "month": 8,
+      "community": "中航天逸",
+      "roomNumber": "A1-3207",
+      "address": "A1-3207",
+      "area": 89,
+      "rooms": 3,
+      "price": 620,
+      "unit_price": 6.9663,
+      "direction": "东南",
+      "source": "笋盘转成交",
+      "ownership": "满二",
+      "note": "",
+      "ts": 1787399580064
     }
   ],
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
   ],
-  "_updated": "2026-08-22T11:49:11.755Z",
-  "_count": 30
+  "_updated": "2026-08-22T11:53:02.017Z",
+  "_count": 31
 }
