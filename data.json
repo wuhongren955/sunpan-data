@@ -41,27 +41,6 @@
       "ts": 1787276604587
     },
     {
-      "id": "L1786848822232269",
-      "community": "中航天逸",
-      "address": "A1-3207",
-      "code": "105124390954",
-      "school": "未占用",
-      "area": 89,
-      "rooms": "3-2-2",
-      "price": 620,
-      "unit_price": 6.9663,
-      "direction": "东南",
-      "source": "",
-      "ref_price": null,
-      "has_key": true,
-      "is_core": true,
-      "ownership": "满二",
-      "urgent": true,
-      "note": "东南朝向，高楼层，视野好,女业主很诚心卖，男业主做主",
-      "_demo": false,
-      "ts": 1786848822232
-    },
-    {
       "id": "L1786849680281767",
       "community": "安宏基天曜二期",
       "address": "3-2503",
@@ -944,6 +923,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-22T10:27:10.511Z",
-  "_count": 45
+  "_updated": "2026-08-22T11:36:47.105Z",
+  "_count": 44
 }
