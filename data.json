@@ -936,6 +936,27 @@
       "note": "业主自住",
       "_demo": false,
       "ts": 1787403364686
+    },
+    {
+      "id": "L1787403673437936",
+      "community": "水榭春天三期",
+      "address": "12-2-31F",
+      "code": "105118887867",
+      "school": "未占用",
+      "area": 115,
+      "rooms": "4-2-2",
+      "price": 800,
+      "unit_price": 6.9565,
+      "direction": "",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1787403673437
     }
   ],
   "ref": {
@@ -986,6 +1007,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-22T12:56:04.689Z",
-  "_count": 47
+  "_updated": "2026-08-22T13:01:13.440Z",
+  "_count": 48
 }
