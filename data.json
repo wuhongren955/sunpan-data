@@ -957,6 +957,27 @@
       "note": "",
       "_demo": false,
       "ts": 1787403673437
+    },
+    {
+      "id": "L178740386057048",
+      "community": "水榭春天五期",
+      "address": "1-19B",
+      "code": "105121318220",
+      "school": "未占用",
+      "area": 259,
+      "rooms": "5-2-3",
+      "price": 2200,
+      "unit_price": 8.4942,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": false,
+      "ownership": "满五唯一",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1787403860570
     }
   ],
   "ref": {
@@ -1007,6 +1028,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-22T13:01:30.376Z",
-  "_count": 48
+  "_updated": "2026-08-22T13:04:20.573Z",
+  "_count": 49
 }
