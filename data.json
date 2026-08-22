@@ -833,27 +833,6 @@
       "ts": 1787278534436
     },
     {
-      "id": "L1787295977030725",
-      "community": "水榭春天五期",
-      "address": "4-A-3C",
-      "code": "",
-      "school": "未占用",
-      "area": 147,
-      "rooms": "5-2-2",
-      "price": 1300,
-      "unit_price": 8.8435,
-      "direction": "南北通透",
-      "source": "",
-      "ref_price": null,
-      "has_key": true,
-      "is_core": true,
-      "ownership": "满五唯一",
-      "urgent": true,
-      "note": "",
-      "_demo": false,
-      "ts": 1787295977031
-    },
-    {
       "id": "L1787306275744609",
       "community": "日出印象",
       "address": "11-2-302",
@@ -944,6 +923,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-21T17:05:14.705Z",
-  "_count": 45
+  "_updated": "2026-08-22T09:47:12.079Z",
+  "_count": 44
 }
