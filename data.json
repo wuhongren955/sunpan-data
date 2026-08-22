@@ -894,6 +894,27 @@
       "note": "",
       "_demo": false,
       "ts": 1787401662568
+    },
+    {
+      "id": "L1787402292064470",
+      "community": "水榭春天二期",
+      "address": "3-17F",
+      "code": "",
+      "school": "",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 620,
+      "unit_price": 6.9663,
+      "direction": "",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_core": false,
+      "ownership": "",
+      "urgent": false,
+      "note": "",
+      "_demo": false,
+      "ts": 1787402292064
     }
   ],
   "ref": {
@@ -944,6 +965,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-22T12:36:45.107Z",
-  "_count": 45
+  "_updated": "2026-08-22T12:38:12.069Z",
+  "_count": 46
 }
