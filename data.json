@@ -12,17 +12,18 @@
       "source": "先好房·馨佸",
       "ref_price": 6.3,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1755283743000
+      "ts": 1755283743000,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786847368616903",
       "community": "安宏基天曜广场",
-      "address": "B-3A",
+      "address": "B-3B",
       "code": "105123067792",
       "school": "未占用",
       "area": 185,
@@ -33,12 +34,35 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787276604587
+      "ts": 1786848894594,
+      "is_occupied": false,
+      "is_tenant": false
+    },
+    {
+      "id": "L1786848822232269",
+      "community": "中航天逸",
+      "address": "A1-3207",
+      "code": "105124390954",
+      "school": "未占用",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 620,
+      "unit_price": 6.9663,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "东南朝向，高楼层，视野好,女业主很诚心卖，男业主做主",
+      "_demo": false,
+      "ts": 1786848822232,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786849680281767",
@@ -54,12 +78,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满二",
       "urgent": true,
       "note": "次新小区,业主包增值税",
       "_demo": false,
-      "ts": 1786849680281
+      "ts": 1786849680281,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786850039411518",
@@ -75,12 +100,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满二",
       "urgent": true,
       "note": "位置安静",
       "_demo": false,
-      "ts": 1786850039411
+      "ts": 1786850039411,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-008",
@@ -94,12 +120,13 @@
       "source": "",
       "ref_price": 6.2,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176892
+      "ts": 1787199176892,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786850585722370",
@@ -115,12 +142,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满二",
       "urgent": false,
       "note": "房子装修保养好,楼层好，位置安静,业主住在安宏基天曜府",
       "_demo": false,
-      "ts": 1786850585722
+      "ts": 1786850585722,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786851002246453",
@@ -136,12 +164,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": true,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "中间位置安静，价格便宜",
       "_demo": false,
-      "ts": 1786851032671
+      "ts": 1786851032671,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-005",
@@ -155,17 +184,18 @@
       "source": "",
       "ref_price": 7.42,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "密码",
       "_demo": false,
-      "ts": 1787199176889
+      "ts": 1787199176889,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786851526933896",
       "community": "龙光玖悦台",
-      "address": "7-1-2402",
+      "address": "7-1-240",
       "code": "105124724756",
       "school": "未占用",
       "area": 111,
@@ -176,12 +206,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "看泳池位置还可以，楼层好，缺点就是朝北。",
       "_demo": false,
-      "ts": 1787331914690
+      "ts": 1786851526933,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786851947953745",
@@ -197,12 +228,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": true,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "房子装修还可以，学位可以迁走 业主包增值税",
       "_demo": false,
-      "ts": 1787306740404
+      "ts": 1786851947953,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1786887955594218",
@@ -218,16 +250,17 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "户型方正,装修保养好，视野开阔",
       "_demo": false,
-      "ts": 1786887955594
+      "ts": 1786887955594,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787020473591519",
-      "community": "水榭春天二期",
+      "community": "水榭春天一期",
       "address": "6-1-28E",
       "code": "105123837944",
       "school": "未占用",
@@ -239,12 +272,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满二",
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787278608662
+      "ts": 1787020473591,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787020645243344",
@@ -260,12 +294,35 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "看小区花园，安静",
       "_demo": false,
-      "ts": 1787020645243
+      "ts": 1787020645243,
+      "is_occupied": false,
+      "is_tenant": false
+    },
+    {
+      "id": "L1787032641304877",
+      "community": "水榭春天三期",
+      "address": "12-1-20E",
+      "code": "",
+      "school": "未占用",
+      "area": 118,
+      "rooms": "4-2-4",
+      "price": 800,
+      "unit_price": 6.7797,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "业主自己住，现在想实收800万，链家说有摆台过两次",
+      "_demo": false,
+      "ts": 1787032641304,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787039039027162",
@@ -281,12 +338,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": true,
       "ownership": "满二",
       "urgent": true,
       "note": "业主比较诚心卖,租给保安做宿舍，业主比较好说",
       "_demo": false,
-      "ts": 1787039039027
+      "ts": 1787039039027,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-003",
@@ -300,12 +358,13 @@
       "source": "",
       "ref_price": 7.42,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "密码",
       "_demo": false,
-      "ts": 1787199176887
+      "ts": 1787199176887,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-004",
@@ -319,12 +378,13 @@
       "source": "",
       "ref_price": 7.42,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "学位29年",
       "_demo": false,
-      "ts": 1787199176888
+      "ts": 1787199176888,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-006",
@@ -338,12 +398,13 @@
       "source": "",
       "ref_price": 6.2,
       "has_key": false,
-      "is_core": false,
       "ownership": "满五唯一",
       "urgent": false,
       "note": "空",
       "_demo": false,
-      "ts": 1787199176890
+      "ts": 1787199176890,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-007",
@@ -357,12 +418,13 @@
       "source": "",
       "ref_price": 6.2,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176891
+      "ts": 1787199176891,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-009",
@@ -376,12 +438,13 @@
       "source": "",
       "ref_price": 6.2,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176893
+      "ts": 1787199176893,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-010",
@@ -395,12 +458,13 @@
       "source": "",
       "ref_price": 6.2,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176894
+      "ts": 1787199176894,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-011",
@@ -414,12 +478,13 @@
       "source": "",
       "ref_price": 6.84,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176895
+      "ts": 1787199176895,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-012",
@@ -433,12 +498,13 @@
       "source": "",
       "ref_price": 6.84,
       "has_key": false,
-      "is_core": false,
       "ownership": "满五唯一",
       "urgent": false,
       "note": "钥匙",
       "_demo": false,
-      "ts": 1787199176896
+      "ts": 1787199176896,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-013",
@@ -452,12 +518,13 @@
       "source": "",
       "ref_price": 6.84,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176897
+      "ts": 1787199176897,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-014",
@@ -471,12 +538,13 @@
       "source": "",
       "ref_price": 6.64,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "业主出税，出租",
       "_demo": false,
-      "ts": 1787199176898
+      "ts": 1787199176898,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-015",
@@ -490,12 +558,13 @@
       "source": "",
       "ref_price": 6.64,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": true,
       "note": "密码",
       "_demo": false,
-      "ts": 1787199176899
+      "ts": 1787199176899,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-016",
@@ -509,12 +578,13 @@
       "source": "",
       "ref_price": 6.64,
       "has_key": true,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "钥匙",
       "_demo": false,
-      "ts": 1787199176900
+      "ts": 1787199176900,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-017",
@@ -528,12 +598,13 @@
       "source": "",
       "ref_price": 6.64,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176901
+      "ts": 1787199176901,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-018",
@@ -547,12 +618,13 @@
       "source": "",
       "ref_price": 6.64,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199176902
+      "ts": 1787199176902,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-019",
@@ -566,33 +638,33 @@
       "source": "",
       "ref_price": 6.865,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "自住",
       "_demo": false,
-      "ts": 1787199176903
+      "ts": 1787199176903,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD-020",
       "community": "中央原著南区",
       "address": "2-23CD",
-      "code": "",
-      "school": "",
       "area": 128,
-      "rooms": "3室2厅2卫",
+      "rooms": "4室2厅2卫",
       "price": 800,
       "unit_price": 6.25,
       "direction": "",
       "source": "",
-      "ref_price": null,
+      "ref_price": 6.865,
       "has_key": false,
-      "is_core": false,
       "ownership": "",
       "urgent": false,
       "note": "800万左右（约）",
       "_demo": false,
-      "ts": 1787207459049
+      "ts": 1787199176904,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-001",
@@ -606,12 +678,13 @@
       "source": "",
       "ref_price": 7.5,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199825200
+      "ts": 1787199825200,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-002",
@@ -625,19 +698,38 @@
       "source": "",
       "ref_price": 7.5,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199825201
+      "ts": 1787199825201,
+      "is_occupied": false,
+      "is_tenant": false
+    },
+    {
+      "id": "BOARD2-004",
+      "community": "水榭春天二期",
+      "address": "6-1-26E",
+      "area": 89,
+      "rooms": "3室2厅2卫",
+      "price": 620,
+      "unit_price": 6.97,
+      "direction": "东",
+      "source": "",
+      "ref_price": 7.5,
+      "has_key": true,
+      "ownership": "满五不唯一",
+      "urgent": false,
+      "note": "",
+      "_demo": false,
+      "ts": 1787199825203,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-005",
       "community": "水榭春天二期",
       "address": "6-2-10F",
-      "code": "",
-      "school": "",
       "area": 120,
       "rooms": "3室2厅2卫",
       "price": 720,
@@ -646,12 +738,13 @@
       "source": "",
       "ref_price": 7.5,
       "has_key": false,
-      "is_core": false,
-      "ownership": "",
+      "ownership": "满五",
       "urgent": false,
       "note": "自住，近地铁",
       "_demo": false,
-      "ts": 1787308189481
+      "ts": 1787199825204,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-006",
@@ -665,19 +758,18 @@
       "source": "",
       "ref_price": 8.5,
       "has_key": true,
-      "is_core": false,
       "ownership": "满五不唯一",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199825205
+      "ts": 1787199825205,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-007",
       "community": "水榭春天五期",
-      "address": "3-B-24E",
-      "code": "",
-      "school": "",
+      "address": "3-13-24E",
       "area": 89,
       "rooms": "3室2厅2卫",
       "price": 720,
@@ -685,13 +777,14 @@
       "direction": "",
       "source": "",
       "ref_price": 8.8,
-      "has_key": true,
-      "is_core": false,
-      "ownership": "",
+      "has_key": false,
+      "ownership": "满五",
       "urgent": true,
       "note": "急卖，低首付",
       "_demo": false,
-      "ts": 1787308867697
+      "ts": 1787199825206,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-008",
@@ -705,12 +798,13 @@
       "source": "",
       "ref_price": 8.8,
       "has_key": false,
-      "is_core": false,
       "ownership": "满五",
       "urgent": false,
       "note": "密码",
       "_demo": false,
-      "ts": 1787199825207
+      "ts": 1787199825207,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-009",
@@ -724,12 +818,13 @@
       "source": "",
       "ref_price": 8.5,
       "has_key": false,
-      "is_core": false,
       "ownership": "满五不唯一",
       "urgent": false,
       "note": "2年解",
       "_demo": false,
-      "ts": 1787199825208
+      "ts": 1787199825208,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-010",
@@ -743,19 +838,18 @@
       "source": "",
       "ref_price": 8.5,
       "has_key": true,
-      "is_core": false,
       "ownership": "满五",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199825209
+      "ts": 1787199825209,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-011",
-      "community": "水榭春天六期A区",
+      "community": "水榭春天六期（A/B待确认）",
       "address": "1-5E",
-      "code": "",
-      "school": "未占用",
       "area": 89,
       "rooms": "3室2厅2卫",
       "price": 710,
@@ -764,12 +858,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": false,
-      "ownership": "满二",
+      "ownership": "满五不唯一",
       "urgent": false,
       "note": "红本在手",
       "_demo": false,
-      "ts": 1787306661530
+      "ts": 1787199825210,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "BOARD2-012",
@@ -783,12 +878,13 @@
       "source": "",
       "ref_price": 7.5,
       "has_key": false,
-      "is_core": false,
       "ownership": "满五唯一",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787199825211
+      "ts": 1787199825211,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787278534436411",
@@ -804,12 +900,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": true,
       "ownership": "",
       "urgent": true,
       "note": "楼王位置，通透户型，自如在租",
       "_demo": false,
-      "ts": 1787278534436
+      "ts": 1787278534436,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787306275744609",
@@ -825,12 +922,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": false,
       "ownership": "满五唯一",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787306275744
+      "ts": 1787306275744,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L178730643871732",
@@ -846,12 +944,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": true,
       "note": "业主去年法拍过来的 现在这装修，各付各税",
       "_demo": false,
-      "ts": 1787306438717
+      "ts": 1787306438717,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787394430506362",
@@ -867,12 +966,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满二",
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787394430506
+      "ts": 1787394430506,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787401662568887",
@@ -888,12 +988,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": false,
       "ownership": "满二",
       "urgent": false,
       "note": "",
       "_demo": false,
-      "ts": 1787401662568
+      "ts": 1787401662568,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787402292064470",
@@ -909,12 +1010,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满二",
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787402340234
+      "ts": 1787402340234,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787403364686603",
@@ -930,12 +1032,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": true,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "业主自住",
       "_demo": false,
-      "ts": 1787403690374
+      "ts": 1787403690374,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L1787403673437936",
@@ -951,12 +1054,13 @@
       "source": "",
       "ref_price": null,
       "has_key": true,
-      "is_core": true,
       "ownership": "满二",
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787403673437
+      "ts": 1787403673437,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "id": "L178740386057048",
@@ -972,12 +1076,13 @@
       "source": "",
       "ref_price": null,
       "has_key": false,
-      "is_core": false,
       "ownership": "满五唯一",
       "urgent": true,
       "note": "",
       "_demo": false,
-      "ts": 1787403860570
+      "ts": 1787403860570,
+      "is_occupied": false,
+      "is_tenant": false
     }
   ],
   "ref": {
@@ -1008,7 +1113,7 @@
     "龙华金茂府": 8,
     "绿景公馆1866北区": 8.25,
     "绿景公馆1866南区": 6.84,
-    "梅陇镇一期": 4.84,
+    "金地梅陇镇一期": 4.84,
     "日出印象二期": 3.79,
     "日出印象": 4.3,
     "尚竣": 4.94,
@@ -1027,7 +1132,7 @@
     "中航天逸": 6.705,
     "卓越皇后道": 6.25
   },
-  "_ver": "cloud-live",
-  "_updated": "2026-08-22T13:04:20.573Z",
-  "_count": 49
+  "_ver": "cloud-v1",
+  "_updated": "2026-08-22T13:04:53.174Z",
+  "_count": 43
 }
