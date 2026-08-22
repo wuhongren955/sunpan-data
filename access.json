@@ -13,10 +13,10 @@
     {
       "name": "鲁兵",
       "code": "XMJWG2",
-      "active": false,
+      "active": true,
       "createdAt": "2026-08-22T13:24:25.122Z",
-      "activatedAt": null,
-      "lastSeen": null
+      "activatedAt": "2026-08-22T13:38:12.696Z",
+      "lastSeen": "2026-08-22T13:38:12.696Z"
     }
   ],
   "_ver": "access-v1"
