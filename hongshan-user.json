@@ -496,29 +496,11 @@
       "_user": true,
       "_id": "HUmt489n5acy76",
       "ts": 1787394049390
-    },
-    {
-      "_id": "DEAL-mt4b0rg0-66yj",
-      "_user": true,
-      "year": 2026,
-      "month": 8,
-      "community": "中航天逸",
-      "roomNumber": "A1-3207",
-      "address": "A1-3207",
-      "area": 89,
-      "rooms": 3,
-      "price": 620,
-      "unit_price": 6.9663,
-      "direction": "东南",
-      "source": "笋盘转成交",
-      "ownership": "满二",
-      "note": "东南朝向，高楼层，视野好,女业主很诚心卖，男业主做主（原编码：105124390954）",
-      "ts": 1787398673904
     }
   ],
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
   ],
-  "_updated": "2026-08-22T11:43:01.665Z",
-  "_count": 31
+  "_updated": "2026-08-22T11:43:03.672Z",
+  "_count": 30
 }
