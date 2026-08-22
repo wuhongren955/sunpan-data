@@ -873,6 +873,27 @@
       "note": "",
       "_demo": false,
       "ts": 1787394430506
+    },
+    {
+      "id": "L1787400157153763",
+      "community": "中航天逸",
+      "address": "A1-3207",
+      "code": "",
+      "school": "未占用",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 620,
+      "unit_price": 6.9663,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1787400157154
     }
   ],
   "ref": {
@@ -923,6 +944,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-22T11:53:03.224Z",
-  "_count": 44
+  "_updated": "2026-08-22T12:02:37.162Z",
+  "_count": 45
 }
