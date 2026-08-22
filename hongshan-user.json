@@ -479,11 +479,28 @@
       "_user": true,
       "_id": "HUmt4719t0fars",
       "ts": 1787391979236
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "community": "水榭春天五期",
+      "address": "4-B-3C",
+      "area": 147,
+      "rooms": 5,
+      "price": 1260,
+      "unit_price": 8.57,
+      "direction": "南北通透",
+      "source": "乐",
+      "ownership": "",
+      "is_core": true,
+      "_user": true,
+      "_id": "HUmt489n5acy76",
+      "ts": 1787394049390
     }
   ],
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
   ],
-  "_updated": "2026-08-22T09:46:19.237Z",
-  "_count": 29
+  "_updated": "2026-08-22T10:20:49.390Z",
+  "_count": 30
 }
