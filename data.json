@@ -873,6 +873,27 @@
       "note": "业主去年法拍过来的 现在这装修，各付各税",
       "_demo": false,
       "ts": 1787306438717
+    },
+    {
+      "id": "L1787394430506362",
+      "community": "城投七里香榭",
+      "address": "9-3-5D",
+      "code": "105124233680",
+      "school": "未占用",
+      "area": 75,
+      "rooms": "2+1-2-1",
+      "price": 350,
+      "unit_price": 4.6667,
+      "direction": "南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_core": true,
+      "ownership": "满二",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1787394430506
     }
   ],
   "ref": {
@@ -923,6 +944,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-22T09:47:12.079Z",
-  "_count": 44
+  "_updated": "2026-08-22T10:27:10.511Z",
+  "_count": 45
 }
