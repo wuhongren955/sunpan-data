@@ -12,9 +12,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-1"
+      "_id": "SEED-1",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -28,9 +29,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-2"
+      "_id": "SEED-2",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -44,9 +46,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-3"
+      "_id": "SEED-3",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -60,9 +63,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-4"
+      "_id": "SEED-4",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -76,9 +80,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-5"
+      "_id": "SEED-5",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -92,9 +97,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-6"
+      "_id": "SEED-6",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -108,9 +114,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-7"
+      "_id": "SEED-7",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -124,9 +131,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-8"
+      "_id": "SEED-8",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -140,9 +148,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-9"
+      "_id": "SEED-9",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -156,9 +165,10 @@
       "direction": "",
       "source": "先好房·德佑",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-10"
+      "_id": "SEED-10",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -172,9 +182,10 @@
       "direction": "",
       "source": "自行",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-11"
+      "_id": "SEED-11",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -188,9 +199,10 @@
       "direction": "",
       "source": "贝壳",
       "ownership": "满五唯一",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-12"
+      "_id": "SEED-12",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -204,9 +216,10 @@
       "direction": "",
       "source": "手动录入",
       "ownership": "",
-      "is_core": false,
       "_user": true,
-      "_id": "SEED-13"
+      "_id": "SEED-13",
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -220,10 +233,11 @@
       "direction": "东南",
       "source": "同行",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-14",
-      "ts": 1787301451887
+      "ts": 1787301451887,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -237,10 +251,11 @@
       "direction": "",
       "source": "乐有家",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-15",
-      "ts": 1787260000500
+      "ts": 1787260000500,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -254,10 +269,11 @@
       "direction": "",
       "source": "乐有家",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-16",
-      "ts": 1787260000600
+      "ts": 1787260000600,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -271,10 +287,11 @@
       "direction": "",
       "source": "云联",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-17",
-      "ts": 1787260000700
+      "ts": 1787260000700,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -288,10 +305,11 @@
       "direction": "",
       "source": "乐有家",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-18",
-      "ts": 1787260000800
+      "ts": 1787260000800,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -305,10 +323,11 @@
       "direction": "",
       "source": "贝壳",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-19",
-      "ts": 1787260000900
+      "ts": 1787260000900,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -322,10 +341,11 @@
       "direction": "",
       "source": "贝壳",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-20",
-      "ts": 1787260001000
+      "ts": 1787260001000,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -339,10 +359,11 @@
       "direction": "",
       "source": "贝壳",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-21",
-      "ts": 1787260001100
+      "ts": 1787260001100,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -356,10 +377,11 @@
       "direction": "",
       "source": "贝壳",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-22",
-      "ts": 1787260001200
+      "ts": 1787260001200,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -373,10 +395,11 @@
       "direction": "",
       "source": "贝壳",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "SEED-23",
-      "ts": 1787260001300
+      "ts": 1787260001300,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -390,10 +413,11 @@
       "direction": "北",
       "source": "手动录入",
       "ownership": "",
-      "is_core": true,
       "_user": true,
       "_id": "HUmt2dsl7i2tsm",
-      "ts": 1787282399070
+      "ts": 1787282399070,
+      "is_occupied": true,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -407,10 +431,11 @@
       "direction": "东北",
       "source": "乐",
       "ownership": "",
-      "is_core": true,
       "_user": true,
       "_id": "HUmt2lkjqywf0",
-      "ts": 1787295505447
+      "ts": 1787295505447,
+      "is_occupied": true,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -424,10 +449,11 @@
       "direction": "",
       "source": "手动录入",
       "ownership": "",
-      "is_core": false,
       "_user": true,
       "_id": "HUmt2lrcs1fnkc",
-      "ts": 1787296679631
+      "ts": 1787296679631,
+      "is_occupied": false,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -441,10 +467,11 @@
       "direction": "南北通透",
       "source": "手动录入",
       "ownership": "",
-      "is_core": true,
       "_user": true,
       "_id": "HUmt2t2esw4ben",
-      "ts": 1787308051568
+      "ts": 1787308051568,
+      "is_occupied": true,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -458,10 +485,11 @@
       "direction": "",
       "source": "手动录入",
       "ownership": "",
-      "is_core": true,
       "_user": true,
       "_id": "HUmt3pjhwk4ac7",
-      "ts": 1787362596452
+      "ts": 1787362596452,
+      "is_occupied": true,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -475,10 +503,11 @@
       "direction": "南",
       "source": "手动录入",
       "ownership": "",
-      "is_core": true,
       "_user": true,
       "_id": "HUmt4719t0fars",
-      "ts": 1787391979236
+      "ts": 1787391979236,
+      "is_occupied": true,
+      "is_tenant": false
     },
     {
       "year": 2026,
@@ -492,15 +521,16 @@
       "direction": "南北通透",
       "source": "乐",
       "ownership": "",
-      "is_core": true,
       "_user": true,
       "_id": "HUmt489n5acy76",
-      "ts": 1787394049390
+      "ts": 1787394049390,
+      "is_occupied": true,
+      "is_tenant": false
     }
   ],
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
   ],
-  "_updated": "2026-08-22T12:03:33.436Z",
+  "_updated": "2026-08-22T13:07:50.373Z",
   "_count": 30
 }
