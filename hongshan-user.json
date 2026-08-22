@@ -462,11 +462,28 @@
       "_user": true,
       "_id": "HUmt3pjhwk4ac7",
       "ts": 1787362596452
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "community": "华业玫瑰一期",
+      "address": "1-2-2-16B",
+      "area": 89,
+      "rooms": 3,
+      "price": 580,
+      "unit_price": 6.52,
+      "direction": "南",
+      "source": "手动录入",
+      "ownership": "",
+      "is_core": true,
+      "_user": true,
+      "_id": "HUmt4719t0fars",
+      "ts": 1787391979236
     }
   ],
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
   ],
-  "_updated": "2026-08-22T01:36:36.454Z",
-  "_count": 28
+  "_updated": "2026-08-22T09:46:19.237Z",
+  "_count": 29
 }
