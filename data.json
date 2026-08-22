@@ -1021,6 +1021,28 @@
       "note": "29年才解锁,不能迁走",
       "_demo": false,
       "ts": 1787404484379
+    },
+    {
+      "id": "L1787404626439680",
+      "community": "水榭春天三期",
+      "address": "9-28F",
+      "code": "105119182943",
+      "school": "未占用",
+      "area": 66,
+      "rooms": "2-2-1",
+      "price": 425,
+      "unit_price": 6.4394,
+      "direction": "东南",
+      "source": "",
+      "ref_price": null,
+      "has_key": true,
+      "is_occupied": false,
+      "is_tenant": false,
+      "ownership": "满二",
+      "urgent": false,
+      "note": "",
+      "_demo": false,
+      "ts": 1787404626439
     }
   ],
   "ref": {
@@ -1071,6 +1093,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-22T13:14:44.385Z",
-  "_count": 51
+  "_updated": "2026-08-22T13:17:06.443Z",
+  "_count": 52
 }
