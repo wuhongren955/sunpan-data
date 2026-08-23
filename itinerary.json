@@ -28,9 +28,38 @@
       "updated_at": 1787472455750,
       "_user": true,
       "created_at": 1787472455750
+    },
+    {
+      "_id": "ITIN-1787472514900-373",
+      "listing_id": "L1787020645243344",
+      "community": "水榭春天二期",
+      "address": "3-7E",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 610,
+      "unit_price": 6.8539,
+      "direction": "东南",
+      "usage_rate": null,
+      "building_age": null,
+      "property_fee": null,
+      "title": "带看 · 水榭春天二期 3-7E",
+      "contact_name": "",
+      "contact_phone": "",
+      "schedule_date": "2026-08-23",
+      "schedule_time": "09:00",
+      "datetime": 1787446800000,
+      "type": "带看",
+      "remind_enabled": true,
+      "remind_minutes": 30,
+      "remind_triggered_at": 0,
+      "status": "待看房",
+      "note": "",
+      "updated_at": 1787472514900,
+      "_user": true,
+      "created_at": 1787472514901
     }
   ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T08:07:35.751Z",
-  "_count": 1
+  "_updated": "2026-08-23T08:08:34.901Z",
+  "_count": 2
 }
