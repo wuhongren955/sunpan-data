@@ -59,9 +59,38 @@
       "_user": true,
       "created_at": 1787479831246,
       "_deleted": true
+    },
+    {
+      "_id": "ITIN-1787480994587-653",
+      "listing_id": "",
+      "community": "刚刚",
+      "address": "",
+      "area": null,
+      "rooms": "",
+      "price": null,
+      "unit_price": null,
+      "direction": "",
+      "usage_rate": null,
+      "building_age": null,
+      "property_fee": null,
+      "title": "行程 · 刚刚",
+      "contact_name": "",
+      "contact_phone": "",
+      "schedule_date": "2026-08-23",
+      "schedule_time": "09:00",
+      "datetime": 1787446800000,
+      "type": "带看",
+      "remind_enabled": true,
+      "remind_minutes": 30,
+      "remind_triggered_at": 0,
+      "status": "待看房",
+      "note": "",
+      "updated_at": 1787480994587,
+      "_user": true,
+      "created_at": 1787480994587
     }
   ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T10:29:46.624Z",
-  "_count": 2
+  "_updated": "2026-08-23T10:29:54.588Z",
+  "_count": 3
 }
