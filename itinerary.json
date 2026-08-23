@@ -1,6 +1,36 @@
 {
-  "itinerary": [],
+  "itinerary": [
+    {
+      "_id": "ITIN-1787470793488-855",
+      "listing_id": "",
+      "community": "中航天逸",
+      "address": "11-2-302",
+      "area": 89,
+      "rooms": "3-2-2",
+      "price": 600,
+      "unit_price": null,
+      "direction": "南北通透",
+      "usage_rate": "",
+      "building_age": null,
+      "property_fee": null,
+      "title": "行程 · 中航天逸",
+      "contact_name": "",
+      "contact_phone": "",
+      "schedule_date": "2026-08-23",
+      "schedule_time": "09:00",
+      "datetime": 1787446800000,
+      "type": "带看",
+      "remind_enabled": true,
+      "remind_minutes": 30,
+      "remind_triggered_at": 0,
+      "status": "待看房",
+      "note": "",
+      "updated_at": 1787470793488,
+      "_user": true,
+      "created_at": 1787470793488
+    }
+  ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T07:17:49.673Z",
-  "_count": 0
+  "_updated": "2026-08-23T07:39:53.488Z",
+  "_count": 1
 }
