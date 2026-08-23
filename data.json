@@ -1044,6 +1044,28 @@
       "note": "密码",
       "_demo": false,
       "ts": 1787406169920
+    },
+    {
+      "id": "L1787479241683715",
+      "community": "汇龙湾",
+      "address": "3-1-12B",
+      "code": "",
+      "school": "未占用",
+      "area": 89,
+      "rooms": "4-2-2",
+      "price": 840,
+      "unit_price": 9.44,
+      "direction": "南北通透",
+      "source": "",
+      "ref_price": null,
+      "has_key": false,
+      "is_occupied": true,
+      "is_tenant": false,
+      "ownership": "",
+      "urgent": true,
+      "note": "",
+      "_demo": false,
+      "ts": 1787479241683
     }
   ],
   "ref": {
@@ -1094,6 +1116,6 @@
     "卓越皇后道": 6.25
   },
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T10:00:33.200Z",
-  "_count": 52
+  "_updated": "2026-08-23T10:00:41.693Z",
+  "_count": 53
 }
