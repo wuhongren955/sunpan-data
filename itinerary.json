@@ -55,12 +55,13 @@
       "remind_triggered_at": 0,
       "status": "待看房",
       "note": "",
-      "updated_at": 1787479831246,
+      "updated_at": 1787480986624,
       "_user": true,
-      "created_at": 1787479831246
+      "created_at": 1787479831246,
+      "_deleted": true
     }
   ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T10:29:41.638Z",
+  "_updated": "2026-08-23T10:29:46.624Z",
   "_count": 2
 }
