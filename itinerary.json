@@ -15,20 +15,19 @@
       "contact_name": "",
       "contact_phone": "",
       "schedule_date": "2026-08-23",
-      "schedule_time": "15:10",
-      "datetime": 1787469000000,
+      "schedule_time": "15:40",
+      "datetime": 1787470800000,
       "type": "带看",
       "remind_enabled": true,
-      "remind_minutes": 15,
-      "remind_triggered_at": 1787468838077,
+      "remind_minutes": 30,
+      "remind_triggered_at": 0,
       "status": "待看房",
       "note": "",
-      "updated_at": 1787468836430,
-      "_user": true,
-      "created_at": 1787468836430
+      "updated_at": 1787468957480,
+      "_user": true
     }
   ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T07:07:18.078Z",
+  "_updated": "2026-08-23T07:09:17.480Z",
   "_count": 1
 }
