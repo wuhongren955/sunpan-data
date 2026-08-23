@@ -20,7 +20,7 @@
       "type": "带看",
       "remind_enabled": true,
       "remind_minutes": 30,
-      "remind_triggered_at": 0,
+      "remind_triggered_at": 1787469018081,
       "status": "待看房",
       "note": "",
       "updated_at": 1787468957480,
@@ -28,6 +28,6 @@
     }
   ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T07:09:17.480Z",
+  "_updated": "2026-08-23T07:10:18.081Z",
   "_count": 1
 }
