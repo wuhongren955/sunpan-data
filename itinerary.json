@@ -25,9 +25,10 @@
       "remind_triggered_at": 0,
       "status": "待看房",
       "note": "",
-      "updated_at": 1787478612866,
+      "updated_at": 1787481117038,
       "_user": true,
-      "created_at": 1787478612866
+      "created_at": 1787478612866,
+      "_deleted": true
     },
     {
       "_id": "ITIN-1787479831245-460",
@@ -60,6 +61,6 @@
     }
   ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T10:30:22.878Z",
+  "_updated": "2026-08-23T10:31:57.039Z",
   "_count": 2
 }
