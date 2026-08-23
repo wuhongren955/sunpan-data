@@ -526,11 +526,29 @@
       "ts": 1787394049390,
       "is_occupied": true,
       "is_tenant": false
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "community": "中航天逸",
+      "address": "B1-B-1801",
+      "area": 160,
+      "rooms": 5,
+      "price": 1038,
+      "unit_price": 6.49,
+      "direction": "南北通透",
+      "source": "手动录入",
+      "ownership": "",
+      "is_occupied": false,
+      "is_tenant": false,
+      "_user": true,
+      "_id": "HUmt5ee1knh48x",
+      "ts": 1787464798583
     }
   ],
   "deletedBase": [
     "BASE-2d2d324f3a1cd5a4"
   ],
-  "_updated": "2026-08-22T13:07:50.373Z",
-  "_count": 30
+  "_updated": "2026-08-23T05:59:58.585Z",
+  "_count": 31
 }
