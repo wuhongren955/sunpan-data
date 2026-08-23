@@ -23,14 +23,14 @@
       "remind_enabled": true,
       "remind_minutes": 30,
       "remind_triggered_at": 0,
-      "status": "待看房",
+      "status": "已完成",
       "note": "",
-      "updated_at": 1787471153196,
+      "updated_at": 1787471355292,
       "_user": true,
       "created_at": 1787471153196
     }
   ],
   "_ver": "cloud-live",
-  "_updated": "2026-08-23T07:45:53.196Z",
+  "_updated": "2026-08-23T07:49:15.292Z",
   "_count": 1
 }
